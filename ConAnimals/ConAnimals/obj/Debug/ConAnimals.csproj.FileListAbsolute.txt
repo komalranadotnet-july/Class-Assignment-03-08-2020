@@ -1,0 +1,7 @@
+E:\Dot Net\Class Assignment 03-08-2020\ConAnimals\ConAnimals\bin\Debug\ConAnimals.exe.config
+E:\Dot Net\Class Assignment 03-08-2020\ConAnimals\ConAnimals\bin\Debug\ConAnimals.exe
+E:\Dot Net\Class Assignment 03-08-2020\ConAnimals\ConAnimals\bin\Debug\ConAnimals.pdb
+E:\Dot Net\Class Assignment 03-08-2020\ConAnimals\ConAnimals\obj\Debug\ConAnimals.csprojAssemblyReference.cache
+E:\Dot Net\Class Assignment 03-08-2020\ConAnimals\ConAnimals\obj\Debug\ConAnimals.csproj.CoreCompileInputs.cache
+E:\Dot Net\Class Assignment 03-08-2020\ConAnimals\ConAnimals\obj\Debug\ConAnimals.exe
+E:\Dot Net\Class Assignment 03-08-2020\ConAnimals\ConAnimals\obj\Debug\ConAnimals.pdb

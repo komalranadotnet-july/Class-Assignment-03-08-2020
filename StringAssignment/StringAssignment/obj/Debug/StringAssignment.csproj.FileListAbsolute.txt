@@ -1,0 +1,6 @@
+E:\Dot Net\Class Assignment 03-08-2020\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+E:\Dot Net\Class Assignment 03-08-2020\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+E:\Dot Net\Class Assignment 03-08-2020\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+E:\Dot Net\Class Assignment 03-08-2020\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+E:\Dot Net\Class Assignment 03-08-2020\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+E:\Dot Net\Class Assignment 03-08-2020\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
